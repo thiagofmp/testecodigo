@@ -1,4 +1,7 @@
 body {
+    color: white;
+    background-image: url("971.jpg");
+    background-size: 100%;
     text-align: center;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -6,7 +9,7 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: white;
 }
 
 button {
@@ -29,7 +32,7 @@ button:hover {
 }
 
 #textoAlterado {
-    color: #555;
+    color: white;
     font-style: italic;
 }
 
